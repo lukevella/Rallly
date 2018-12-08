@@ -17,7 +17,7 @@
     "debug": "^2.6.7",
     "express": "~4.15.2",
     "mongoose": "^4.4.5",
-    "morgan": "^1.5.1",
+    "morgan": "^1.9.1",
     "nodemailer": "^4.0.1",
     "nodemailer-express-handlebars": "^2.0.0",
     "numeral": "^1.5.3",
