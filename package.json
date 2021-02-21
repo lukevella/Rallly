@@ -25,7 +25,7 @@
     "pug": "^2.0.3",
     "serve-favicon": "^2.1.7",
     "shortid": "^2.2.4",
-    "yargs": "^7.0.2"
+    "yargs": "^13.1.0"
   },
   "devDependencies": {
     "bower": "^1.8.0",
