@@ -22,7 +22,7 @@
     "nodemailer-express-handlebars": "^2.0.0",
     "numeral": "^1.5.3",
     "prompt": "^1.0.0",
-    "pug": "^2.0.3",
+    "pug": "^3.0.1",
     "serve-favicon": "^2.1.7",
     "shortid": "^2.2.4",
     "yargs": "^7.0.2"
