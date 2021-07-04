@@ -18,7 +18,7 @@
     "express": "~4.15.2",
     "mongoose": "^4.4.5",
     "morgan": "^1.5.1",
-    "nodemailer": "^4.0.1",
+    "nodemailer": "^6.6.1",
     "nodemailer-express-handlebars": "^2.0.0",
     "numeral": "^1.5.3",
     "prompt": "^1.0.0",
